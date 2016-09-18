@@ -274,7 +274,7 @@ function create_config( )
     "Caption",
     "Payamresan"
     },
-    sudo_users = {263122239},
+    sudo_users = {259781677},
     moderation = {data = 'data/moderation.json'},
     about_text = [[👑 Signal Bot 👑
 An advanced administration bot based on TG-CLI written in Lua
